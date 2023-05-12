@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on App and Back-end Development<br><b>Fun fact<b> The question paper always blanks me for a second
+I'm currently working on App and Back-end Development<br><b>Fun fact</b> The question paper always blanks me for a second 😆
 
 
 ## 🌐 Socials:
