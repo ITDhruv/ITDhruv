@@ -30,7 +30,7 @@
 
 <div align="center">
 
-`Flutter-Developer`  | `FullStack-App-Developer`  | `Backend-Developer` 
+`Flutter-Developer`  | `App-Developer`  | `Backend-Developer` 
 
   <p>
 <!--     <a href="https://github.com/ITDhruv/ITDhruv/actions/workflows/snake-grid-animation.yml">
