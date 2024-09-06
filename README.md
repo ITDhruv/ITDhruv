@@ -30,7 +30,7 @@
 
 <div align="center">
 
-`Flutter-Developer`  | `App-Developer`  | `Backend-Developer` 
+`Flutter-Developer`  | `Backend-Developer`  | `FullStack-Developer` 
 
   <p>
 <!--     <a href="https://github.com/ITDhruv/ITDhruv/actions/workflows/snake-grid-animation.yml">
@@ -62,16 +62,22 @@
     <img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
     <img alt="Jupyter" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />  
     <img alt="Dart" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img alt="Go" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" />
 <!--     <img alt="JSON" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-plain.svg" /> -->
     <img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt="C++" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="BitBucket" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg" />
     <img alt="Postman" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
     <img alt="Node-JS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="MongoDB" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
+    <img alt="Kafka" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original.svg" />
     <img alt="HTML5" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="CSS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="Github" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img alt="Git" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="VSCode" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img alt="Jira" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" />
+    
 </div>
 <br>
 
