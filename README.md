@@ -72,7 +72,7 @@
     <img alt="MongoDB" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" />
     <img alt="Kafka" height ="36px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original.svg" />
     <img alt="HTML5" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="CSS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<!--     <img alt="CSS" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
     <img alt="Github" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img alt="Git" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="VSCode" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
